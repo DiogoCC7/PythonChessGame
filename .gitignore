@@ -1,0 +1,8 @@
+# code editors
+.vs
+.vscode
+.idea
+
+# python3 setup.py sdist bdist_wheel
+
+__pycache__
